@@ -80,4 +80,6 @@ This ensured accurate and reliable analysis.
 2.T-SQL (Aggregations, CASE Statements)
 3.Data Cleaning & Transformation Techniques
 
-📬 Conclusion
+📬 Conclusion:
+
+This project focused on analyzing ride-hailing operations data using SQL to identify key business insights related to ride completion, cancellations, revenue generation, customer behavior, and vehicle performance.
