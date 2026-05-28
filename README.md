@@ -83,3 +83,5 @@ This ensured accurate and reliable analysis.
 📬 Conclusion:
 
 This project focused on analyzing ride-hailing operations data using SQL to identify key business insights related to ride completion, cancellations, revenue generation, customer behavior, and vehicle performance.
+
+
